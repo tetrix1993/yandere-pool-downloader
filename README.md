@@ -1,7 +1,7 @@
 # Yandere Pool Downloader
 
 ## Introduction
-Yandere Pool Downloader is a simple command line program to download images from the [Yande.re website](https://yande.re) by pool numbe. The program is written in Python 3.
+Yandere Pool Downloader is a simple command line program to download images from the [Yande.re website](https://yande.re) by pool number. The program is written in Python 3.
 
 ## Setting Up
 1. Download and install the latest version of [Python](https://www.python.org/downloads/)
