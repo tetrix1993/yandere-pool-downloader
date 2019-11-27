@@ -9,7 +9,6 @@ Yandere Pool Downloader is a simple command line program to download images from
 3. Run the following commands:
 ```
 pip install requests
-pip install argparse
 ```
 
 ## Running the Program
@@ -18,5 +17,4 @@ pip install argparse
    1. Pool No. - the pool number
    2. sample/full - Specify `sample` or `full`. Choosing `sample` will download a smaller version of the image, while `full` is the full version
    3. Example: `python yandere_pool_downloader.py 96832 full` or `python yandere_pool_downloader.py 96832 sample`
-3. The image will be saved in the folder `yandere/<Pool No.>_<Pool Name>`:
-![image001.jpg](/images/img001.jpg)
+3. The image will be saved in the folder `yandere/<Pool No.>_<Pool Name>`
