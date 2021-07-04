@@ -1,4 +1,9 @@
 # Yandere Pool Downloader
+**Note: This repository is obsolete. Please check out the new repository: [yandere-downloader](https://github.com/tetrix1993/yandere-downloader)**
+
+<details>
+<summary>Click to expand...</summary>
+<br/>
 
 ## Introduction
 Yandere Pool Downloader is a simple command line program to download images from the [Yande.re website](https://yande.re) by pool number. The program is written in Python 3.
@@ -19,3 +24,4 @@ pip install requests
    3. Example: `python yandere_pool_downloader.py 96832 full` or `python yandere_pool_downloader.py 96832 sample`
 3. The image will be saved in the folder `yandere/<Pool No.>_<Pool Name>`
 ![image002.png](/images/img002.png)
+</details>
